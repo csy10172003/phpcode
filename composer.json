@@ -1,0 +1,17 @@
+{
+    "name": "csy10172003/phpcode",
+    "description": "项目常用php代码库",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "changyong",
+            "email": "273027946@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "phpcode\\": "src"
+        },
+        "files": [ ]
+    }
+}
