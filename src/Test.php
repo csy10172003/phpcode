@@ -23,6 +23,7 @@ namespace phpcode;
 class test
 { 
     public static function log($msg){
+    //changyong1
       echo $msg;
     }
 }
