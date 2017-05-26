@@ -21,7 +21,7 @@ namespace phpcode;
  * @author Jordi Boggiano <j.boggiano@seld.be>
  */
 class test
-{   //changyong31
+{   //changyong41
     public static function log($msg){
       echo $msg;
     }
