@@ -1,7 +1,8 @@
 {
     "name": "csy10172003/phpcode",
-    "description": "项目常用php代码库",
+    "description": "base php",
     "license": "Apache-2.0",
+     "minimum-stability": "dev",
     "authors": [
         {
             "name": "changyong",
