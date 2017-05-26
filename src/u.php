@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /* http://www.upupw.net */
 /* webmaster@upupw.net */
 $version="15.12.5AQ";
@@ -10,6 +10,7 @@ function micro_time_float() { $mtime = microtime(); $mtime = explode(' ', $mtime
 function get_hash() {
   return sha1(uniqid());
 }
+魂牵梦萦魂牵梦萦魂牵梦萦栽
 @session_start();
 $currentTime = time();
 $changeTime = 86400;
